@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "agm-map"
+    }
+  },
+  "defaultProject": "agm-map",
+  "cli": {
+    "analytics": "5be036c1-fe67-42c7-bb7d-2e075752cbed"
+  }
 }
